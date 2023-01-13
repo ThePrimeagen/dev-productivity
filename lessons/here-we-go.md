@@ -27,7 +27,7 @@ I will be using docker throughout this presentation, especially in the
 beginning, but you don't need to know about it.  I use docker so that I can
 create clean environments instead of mutating my system to become clean.
 
-[ThePrimeagen's Ansible](https://github.com/ThePrimeagen/ansible)
+[ThePrimeagen's Ansible](https://github.com/ThePrimeagen/ansible/tree/0e9ec7e31d5bf5c721267a8dccaeea3c1667f3ca)
 
 <br />
 <br />
