@@ -12,6 +12,6 @@ How can you stay productive across multiple machines, multiple projects, and mul
 
 ## License
 
-The **code** is this repo is licensed under the Apache 2.0 license.
+The **code** in this repo is licensed under the Apache 2.0 license.
 
-The **content** is this repo is licensed under the CC-BY-NC-4.0 license.
+The **content** in this repo is licensed under the CC-BY-NC-4.0 license.
